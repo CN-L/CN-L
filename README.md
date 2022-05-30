@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CN-L
 - 👀 I’m interested in binge-watching and travel
 - 🌱 I’m currently learning Knowledge of web developer
-- 💞️ I like cute girl
+- 💞️ I like learning and playing badminton and table tennis
 - 📫 How to reach me: Wechat: 1396595541
 
 <!---
