@@ -18,4 +18,4 @@ Welcome to my GitHub profile! Here's a glimpse into my coding journey:
 
 Feel free to explore my repositories and get a glimpse of my coding adventures. If you have any questions, suggestions, or potential collaborations, don't hesitate to reach out. Let's embark on an exciting coding journey together!
 
-Happy coding! 😄👨‍💻翻译
+Happy coding! 😄👨‍💻
