@@ -6,8 +6,6 @@ Welcome to my GitHub profile! Here's a glimpse into my coding journey:
 
 💡 Innovative Mindset: I'm constantly seeking new challenges and pushing the boundaries of what's possible. I love turning ideas into reality and overcoming obstacles along the way.
 
-💻 Tech Enthusiast: From front-end development to back-end programming and everything in between, I'm an avid learner in various technical domains. I'm always eager to embrace the latest tools and technologies.
-
 🤝 Collaboration Advocate: I strongly believe in the power of collaboration to foster innovation. Working alongside other developers, sharing knowledge and experiences, is what fuels my creativity.
 
 ⚡️ Efficient Coding Style: I pay great attention to writing clean, readable, and maintainable code. I strive for modularity and efficiency, ensuring my projects are scalable and robust.
